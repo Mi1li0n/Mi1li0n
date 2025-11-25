@@ -1,4 +1,4 @@
-## Hi there 👋
+## lazy Mi
 
 <!--
 **Mi1li0n/Mi1li0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
